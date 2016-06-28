@@ -1,0 +1,6 @@
+C:\Users\Ada\Documents\Visual Studio 2012\Projects\PT\serwer\bin\Debug\serwer.exe.config
+C:\Users\Ada\Documents\Visual Studio 2012\Projects\PT\serwer\bin\Debug\serwer.exe
+C:\Users\Ada\Documents\Visual Studio 2012\Projects\PT\serwer\bin\Debug\serwer.pdb
+C:\Users\Ada\Documents\Visual Studio 2012\Projects\PT\serwer\obj\Debug\serwer.csprojResolveAssemblyReference.cache
+C:\Users\Ada\Documents\Visual Studio 2012\Projects\PT\serwer\obj\Debug\serwer.exe
+C:\Users\Ada\Documents\Visual Studio 2012\Projects\PT\serwer\obj\Debug\serwer.pdb
